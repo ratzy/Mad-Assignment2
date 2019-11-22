@@ -13,6 +13,7 @@
     <section class="main">
         <!--START: Tweets Display-->
         <?php include('components/tweet.php'); ?>
+        <?php include('components/not-found.php'); ?>
         <!--END: Tweets Display-->
     </section>
 
